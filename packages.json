@@ -1,0 +1,22 @@
+[
+    {
+        "package": "socviz",
+        "url": "https://github.com/kjhealy/socviz"
+    },
+    {
+        "package": "covdata",
+        "url": "https://github.com/kjhealy/covdata"
+    },
+    {
+        "package": "nycdogs",
+        "url": "https://github.com/kjhealy/nycdogs",
+    },
+    {
+        "package": "gssr",
+        "url": "https://github.com/kjhealy/gssr",
+    },
+    {
+        "package": "uscenpops",
+        "url": "https://github.com/kjhealy/uscenpops",
+    }
+]
