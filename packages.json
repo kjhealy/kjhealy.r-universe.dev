@@ -18,5 +18,9 @@
     {
         "package": "uscenpops",
         "url": "https://github.com/kjhealy/uscenpops"
+    },
+    {
+        "package": "covmobility",
+        "url": "https://github.com/kjhealy/covmobility"
     }
 ]
