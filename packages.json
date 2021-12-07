@@ -9,14 +9,14 @@
     },
     {
         "package": "nycdogs",
-        "url": "https://github.com/kjhealy/nycdogs",
+        "url": "https://github.com/kjhealy/nycdogs"
     },
     {
         "package": "gssr",
-        "url": "https://github.com/kjhealy/gssr",
+        "url": "https://github.com/kjhealy/gssr"
     },
     {
         "package": "uscenpops",
-        "url": "https://github.com/kjhealy/uscenpops",
+        "url": "https://github.com/kjhealy/uscenpops"
     }
 ]
