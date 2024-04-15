@@ -5,7 +5,11 @@
     },
     {
         "package": "gssr",
-        "url": "https://github.com/kjhealy/gssr"
+        "url": "https://github.com/kjhealy/gssr/tree/nodocs"
+    },
+    {
+        "package": "gssrdoc",
+        "url": "https://github.com/kjhealy/gssrdoc"
     },
     {
         "package": "covdata",
