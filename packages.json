@@ -32,16 +32,20 @@
         "url": "https://github.com/kjhealy/nyczips"
     },
     {
-        "package": "nycdcm",
-        "url": "https://github.com/kjhealy/nycdcm"
-    },
-    {
         "package": "nycroutes",
         "url": "https://github.com/kjhealy/nycroutes"
     },
     {
         "package": "nycbuildxwalks",
         "url": "https://github.com/kjhealy/nycbuildxwalks"
+    },
+    {
+        "package": "nycdcm",
+        "url": "https://github.com/kjhealy/nycdcm"
+    },
+    {
+        "package": "nycstreets",
+        "url": "https://github.com/kjhealy/nycstreets"
     },
     {
         "package": "uscenpops",
