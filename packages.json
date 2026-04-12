@@ -48,6 +48,10 @@
         "url": "https://github.com/kjhealy/nycstreets"
     },
     {
+        "package": "nycbabynames",
+        "url": "https://github.com/kjhealy/nycbabynames"
+    },    
+    {
         "package": "uscenpops",
         "url": "https://github.com/kjhealy/uscenpops"
     }
