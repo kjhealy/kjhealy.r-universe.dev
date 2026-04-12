@@ -20,6 +20,30 @@
         "url": "https://github.com/kjhealy/nycdogs"
     },
     {
+        "package": "nycomplaints",
+        "url": "https://github.com/kjhealy/nycomplaints"
+    },
+    {
+        "package": "nycmaps",
+        "url": "https://github.com/kjhealy/nycmaps"
+    },
+    {
+        "package": "nyczips",
+        "url": "https://github.com/kjhealy/nyczips"
+    },
+    {
+        "package": "nycdcm",
+        "url": "https://github.com/kjhealy/nycdcm"
+    },
+    {
+        "package": "nycroutes",
+        "url": "https://github.com/kjhealy/nycroutes"
+    },
+    {
+        "package": "nycbuildxwalks",
+        "url": "https://github.com/kjhealy/nycbuildxwalks"
+    },
+    {
         "package": "uscenpops",
         "url": "https://github.com/kjhealy/uscenpops"
     }
