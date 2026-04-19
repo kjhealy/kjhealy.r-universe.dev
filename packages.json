@@ -28,6 +28,10 @@
         "url": "https://github.com/kjhealy/nycmaps"
     },
     {
+        "package": "nychex",
+        "url": "https://github.com/kjhealy/nycmaps"
+    },    
+    {
         "package": "nyczips",
         "url": "https://github.com/kjhealy/nyczips"
     },
